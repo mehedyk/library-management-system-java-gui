@@ -31,8 +31,7 @@ public class AdminLoginWindow extends JFrame {
             public void actionPerformed(ActionEvent e){
                 String username = usernameField.getText();
                 String password = new String(passwordField.getPassword());
-                // Hardcoded admin: username "mehedy" and password "1202"
-                if(username.equals(LibraryApp.admin.getId()) && password.equals("1202")){
+                if(username.equals(LibraryApp.admin.getId()) && password.equals("1234")){
                     JOptionPane.showMessageDialog(null, "Admin logged in!");
                     new AdminPanelWindow().setVisible(true);
                     dispose();

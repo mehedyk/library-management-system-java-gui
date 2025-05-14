@@ -34,5 +34,5 @@ A complete **Library Management System** written in **Java** with a fully workin
    ```bash
    git clone https://github.com/mehedyk/LibraryManagementSystem.git
 2. Admin Credentials:
-   username: ['mehedy']
+   username: 'admin'
    password: 1234

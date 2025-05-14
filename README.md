@@ -15,8 +15,6 @@ A complete **Library Management System** written in **Java** with a fully workin
 - ✅ Fully working Swing GUI
 - ✅ Follows object-oriented principles (Encapsulation, Abstraction, Inheritance, Polymorphism)
 
----
-
 ## 💻 Technologies Used
 
 - Java (JDK 17+)
@@ -35,3 +33,6 @@ A complete **Library Management System** written in **Java** with a fully workin
 1. Clone the repo:
    ```bash
    git clone https://github.com/mehedyk/LibraryManagementSystem.git
+2. Admin Credentials:
+   username: ['mehedy']
+   password: <'1202'>

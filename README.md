@@ -1,6 +1,6 @@
 ## 📚 Library Management System (Java GUI Project)
 
-A complete **Library Management System** written in **Java** with a fully working **GUI** using **Swing**. The system supports admin and member roles, book borrow/return functionality, and encapsulates core OOP principles.
+A complete **Library Management System** written in **Java** with a fully working **GUI** using **Swing**. The system supports admin and member roles, book borrowing/returning functionality, and encapsulates core OOP principles. By this project, **GUI** features were achieved.
 
 ## Developed By
 - [Mehedy](https://github.com/mehedyk)
@@ -32,7 +32,7 @@ A complete **Library Management System** written in **Java** with a fully workin
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mehedyk/LibraryManagementSystem.git
+   git clone https://github.com/mehedyk/library-management-system-java-gui.git
 2. Admin Credentials:
    username: 'admin'
    password: 1234

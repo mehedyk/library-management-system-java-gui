@@ -3,7 +3,7 @@
 A complete **Library Management System** written in **Java** with a fully working **GUI** using **Swing**. The system supports admin and member roles, book borrowing/returning functionality, and encapsulates core OOP principles. By this project, **GUI** features were achieved.
 
 ## Developed By
-- [Mehedy](https://github.com/mehedyk)
+- [Mehedyk](https://github.com/mehedyk)
 
 
 ## ✨ Features

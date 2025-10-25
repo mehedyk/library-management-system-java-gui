@@ -1,4 +1,4 @@
-# 📚 Library Management System
+<img width="1170" height="340" alt="image" src="https://github.com/user-attachments/assets/0a168245-92e0-45c0-b44a-afff279b748d" /># 📚 Library Management System
 
 <div align="center">
 
@@ -18,6 +18,8 @@
 ## 🌟 Overview
 
 Welcome to the **Library Management System** - a comprehensive desktop application designed to streamline library operations with an intuitive graphical user interface. Built entirely in Java using Swing, this project demonstrates robust Object-Oriented Programming principles while providing practical functionality for managing books, members, and transactions.
+
+*This is the proof of my ##CLI to ##GUI. Also helped me learn OOP. The only downside is that there is no dedicated database. Hope to update the application with the Database soon.*
 
 ### ✨ What Makes This Special?
 
@@ -390,14 +392,12 @@ in the Software without restriction...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mehedyk-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehedyk/)
 [![Facebook](https://img.shields.io/badge/Facebook-mahdi.kawser-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/mahdi.kawser)
 
-*Passionate Java Developer | OOP Enthusiast | GUI Design Specialist*
-
 </div>
 
 ---
 
 ## 🙏 Acknowledgments
-
+- Him
 - ☕ Oracle for Java and Swing documentation
 - 📚 Classic literature authors for default book data
 - 💡 Open-source community for inspiration
@@ -427,9 +427,9 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 <div align="center">
 
-### Made with ❤️ and ☕ by [MEHEDYK](https://github.com/mehedyk)
+### Made by [MEHEDYK](https://github.com/mehedyk)
 
-**Happy Coding!** 🚀
+**Happy Coding!**
 
 ---
 

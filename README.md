@@ -19,7 +19,7 @@
 
 Welcome to the **Library Management System** - a comprehensive desktop application designed to streamline library operations with an intuitive graphical user interface. Built entirely in Java using Swing, this project demonstrates robust Object-Oriented Programming principles while providing practical functionality for managing books, members, and transactions.
 
-*This is the proof of my ##CLI to ##GUI. Also helped me learn OOP. The only downside is that there is no dedicated database. Hope to update the application with the Database soon.*
+*This is the proof of my ## CLI to ## GUI. Also helped me learn OOP. The only downside is that there is no dedicated database. Hope to update the application with the Database soon.*
 
 ### ✨ What Makes This Special?
 
